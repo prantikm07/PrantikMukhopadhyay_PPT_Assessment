@@ -1,0 +1,9 @@
+// This commands are for amazon linux instance. For ubuntu commands are little different.
+
+sudo yum update -y
+sudo yum install nginx git -y
+sudo systemctl start nginx
+sudo systemctl enable nginx
+git clone https://github.com/prantikm07/PMfolio
+sudo rm -rf /usr/share/nginx/html/*
+sudo cp -r PMfolio/* /usr/share/nginx/html/
