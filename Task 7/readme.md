@@ -46,7 +46,7 @@ To create an EFS file system and mount it across multiple Ubuntu EC2 instances t
 Screenshots Submitted:
 1. EFS File System overview.
 2. Mount targets configuration.
-3. Shared file visible on second EC2 instance.
+3. Shared file visible on 2nd EC2 instance.
 
 ## Conclusion
 
