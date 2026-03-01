@@ -7,7 +7,7 @@ Deploying a static website on an EC2 instance using the Nginx web server. Nginx 
 
 ## Objective
 
-To learn EC2 instance setup, SSH connectivity, and basic web server deployment using Nginx.
+To learn EC2 instance setup, SSH connectivity, and basic web server deployment using Nginx service.
 
 
 
