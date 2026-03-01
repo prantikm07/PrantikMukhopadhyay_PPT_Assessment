@@ -13,7 +13,7 @@ To learn how to create an EBS snapshot and restore it in a different Availabilit
 1. Create volume in eu-north-1a.
 2. Create snapshot from that volume.
 3. Wait until snapshot is completed.
-4. Create new volume from snapshot in eu-north-1b.
+4. Create new volume from the snapshot in eu-north-1b.
 5. Attach new volume to EC2 instance in eu-north-1b.
 
 ## GUI Method Steps (AWS Console)
