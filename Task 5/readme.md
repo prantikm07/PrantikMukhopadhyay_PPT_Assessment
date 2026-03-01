@@ -57,7 +57,7 @@ To learn how to configure Amazon S3 for static website hosting and make a websit
 
 - Bucket website endpoint loads successfully in browser.
 - index.html file is accessible publicly.
-- No Access Denied error appears.
+- No Access Denied error appears on the specified link.
 
 Screenshots Submitted:
 
