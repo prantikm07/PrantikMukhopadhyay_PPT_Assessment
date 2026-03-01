@@ -42,7 +42,7 @@ To understand high availability and scaling concepts by configuring an Auto Scal
 Screenshots Submitted:
 1. Launch Template details.
 2. Load Balancer active with DNS name.
-3. Auto Scaling Group showing running instances.
+3. Auto Scaling Group showing running instances on the same AZ.
 
 ## Conclusion
 
