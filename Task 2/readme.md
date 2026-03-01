@@ -18,7 +18,7 @@ To understand disk structure and learn how to create and manage partitions using
 4. Create a primary partition.
 5. Write and save changes.
 6. Format partition using ext4.
-7. Verify using fdisk -l and lsblk.
+7. Verify using fdisk -l (list) and lsblk.
 
 ### Windows – GPT Partition
 
