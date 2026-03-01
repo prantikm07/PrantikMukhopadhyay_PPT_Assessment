@@ -44,4 +44,4 @@ Screenshots Submitted:
 
 ## Conclusion
 
-Successfully created IAM users and group and attached appropriate policies. This demonstrates understanding of AWS access control and security management.
+Successfully created IAM users and user group and attached appropriate policies. This demonstrates understanding of AWS access control and security management.
