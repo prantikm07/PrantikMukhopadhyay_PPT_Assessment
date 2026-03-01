@@ -47,7 +47,6 @@ To configure versioning, replication, and lifecycle policies in Amazon S3 to und
 Screenshots Submitted:
 1. Versioning enabled.
 2. Replication rule configuration.
-3. Lifecycle rule configuration.
 
 ## Conclusion
 
